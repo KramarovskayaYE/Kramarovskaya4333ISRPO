@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\bin\Debug\Kramarovskaya4333ISRPO.exe.config
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\bin\Debug\Kramarovskaya4333ISRPO.exe
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\bin\Debug\Kramarovskaya4333ISRPO.pdb
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\App.g.cs
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO_MarkupCompile.cache
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO_MarkupCompile.lref
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\MainWindow.baml
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.g.resources
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.exe
+C:\Users\Acer\OneDrive\Рабочий стол\4333\ИСПРО\1\geometric_lib\4\Kramarovskaya4333ISRPO\Kramarovskaya4333ISRPO\obj\Debug\Kramarovskaya4333ISRPO.pdb
